@@ -1,7 +1,7 @@
 
 public class lab2 {
     public static void main(String[] args) {
-           int[] int_array = new int[10];
+         /*  int[] int_array = new int[10];
         for(int i=0; i<10;i++){
             int_array[i] = i*2;
         } 
@@ -71,6 +71,6 @@ public class lab2 {
                for(int j=0;j<col;j++){
                    System.out.print(matrix[i][j] + "\t"); //printing the matrix
                }
-               System.out.println();}  
+               System.out.println();}  */ 
 
          }}
