@@ -1,1 +1,1 @@
-All of my DSA labs that I've doen are uploaded here.
+All of my DSA labs that I've done are uploaded here.
