@@ -24,6 +24,6 @@ public class lcode{
       Solution s = new Solution();
       System.out.println("Array before concat : "+Arrays.toString(nums));
       System.out.println("Array after concat : "+Arrays.toString(s.getConcatenation(nums)));
-
+      sc.close();
     }
 } 
