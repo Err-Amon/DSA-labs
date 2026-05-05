@@ -1,9 +1,10 @@
 public class stack {
-    private static int maxSize;
-    int [] stackArray = new int[maxSize];
+    private int maxSize;
+    int [] stackArray ;
     int top = -1;
     public stack(int size){
         this.maxSize = size;
+        stackArray = new int[maxSize];
     }
     public boolean  isEmpty(){
         if(top==-1){
